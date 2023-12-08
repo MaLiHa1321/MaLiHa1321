@@ -2,14 +2,14 @@
 
 ![The San Juan Mountains are beautiful!](/images/art-color.png "San Juan Mountains")
 
-## Current Status
+## Current Status & Commit status
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaLiHa1321&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaLiHa1321&theme=dark&show_icons=true)
 
-## Skill
+## My Skill
 <code>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@
 </code>
 
 
-## My recent project
+# My recent project
 # 1. Event management project
 
 Welcome to the Event Management System. This system is designed to streamline and enhance the process of organizing and managing events, making event planning a seamless experience.

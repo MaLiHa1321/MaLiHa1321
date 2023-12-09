@@ -1,6 +1,6 @@
 # Overview
 
-![The San Juan Mountains are beautiful!](/images/art-color.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/images/Maliha.png "San Juan Mountains")
 
 ## Current Status & Commit status
 
@@ -9,33 +9,24 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaLiHa1321&theme=dark&show_icons=true)
 
+# About me
+
+As a passionate MERN stack developer, I thrive on the dynamic intersection of data, logic, and user experience. With a robust skill set encompassing MongoDB, Express.js, React.js, and Node.js, I bring a holistic approach to web application development.
+
 ## My Skill
 <code>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,react,js,nodejs,c" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,react,js,nodejs,c,mongo,express" />
   </a>
 </p>
 </code>
 
 
-# My recent project
-# 1. Event management project
+# Connect with me
 
-Welcome to the Event Management System. This system is designed to streamline and enhance the process of organizing and managing events, making event planning a seamless experience.
+[![DuckDuckGo](https://img.shields.io/badge/Visit-Linkdin-brightgreen)](https://www.linkedin.com/in/maliha-sultana-2175a7263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+or Email: malihasultana2001@gmail.com
 
-Live link: https://event-planner-3931c.web.app
-
-# 2. Inventory management system
-
-Welcome to the Inventory Management System. This system is designed to help businesses efficiently manage their inventory, streamline operations, and ensure accurate stock tracking.
-
-Live link: https://inventory-management-pro-5216c.web.app
-
-# 3. Library management system
-
-Welcome to the Library Management System. This system is designed to simplify the management of library resources, making it efficient for librarians to handle book cataloging, lending, returns, and more
-
-Live link: https://library-management-7f05c.web.app
 
 

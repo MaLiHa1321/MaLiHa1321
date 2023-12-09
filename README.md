@@ -2,18 +2,21 @@
 
 ![The San Juan Mountains are beautiful!](/images/Maliha.png "San Juan Mountains")
 
-## Current Status & Commit status
+
+# About me
+
+As a passionate MERN stack developer, I thrive on the dynamic intersection of data, logic, and user experience. With a robust skill set encompassing MongoDB, Express.js, React.js, and Node.js, I bring a holistic approach to web application development.In the realm of frontend development, React.js became my canvas for building captivating and responsive user interfaces. I take pride in designing reusable components, managing state with precision, and implementing a virtual DOM for optimal rendering.
+
+## Current & Commit status
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaLiHa1321&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaLiHa1321&theme=dark&show_icons=true)
 
-# About me
 
-As a passionate MERN stack developer, I thrive on the dynamic intersection of data, logic, and user experience. With a robust skill set encompassing MongoDB, Express.js, React.js, and Node.js, I bring a holistic approach to web application development.
 
-## My Skill
+# My Skill
 <code>
 <p align="center">
   <a href="https://skillicons.dev">
